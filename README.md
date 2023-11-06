@@ -13,8 +13,7 @@
 
 - 📫 How to reach me **hrutik0729@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/10w-mjzmY9XZQyrT9AG9Xm7HDyj-scLOx/view?usp=sharing
-<br>
+- 📄 Know about my experiences ""
 <br>
 <br>
 
