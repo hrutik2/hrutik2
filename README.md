@@ -51,6 +51,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrutik2&show_icons=true&locale=en&layout=compact" />
   </div>
  <br>
+    <h2 align="center">GitHub Stats</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=hrutik2&show_icons=true&locale=en" />
  
 </div>
