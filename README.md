@@ -46,9 +46,12 @@
 <br>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hrutik2&show_icons=true&locale=en" />
   <div>
+   <h2 align="center"> Most Used Languages </h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrutik2&show_icons=true&locale=en&layout=compact" />
   </div>
+ <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=hrutik2&show_icons=true&locale=en" />
+ 
 </div>
 
