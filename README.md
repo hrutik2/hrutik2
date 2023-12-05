@@ -4,7 +4,9 @@
 
 <br>
 <div width="300" display="flex">
-
+<div>
+ <img align="right" width="300" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif" alt="">
+ </div>
 <div  width="300">
 - 👨‍💻 Portfolio available at [https://hrutik2.github.io/](https://hrutik2.github.io/)
 - 🌱 I’m currently learning **Full Stack Web Development**
@@ -12,9 +14,7 @@
 - 📄 Know about my experiences: [Resume Link](https://drive.google.com/file/d/1vw1eWg-vq1AUBujKzEh35f1sxHX_Gg6F/view?usp=drive_link)
 
  </div>
-  <div>
- <img align="right" width="300" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif" alt="">
- </div>
+  
 </div>
 <br>
 <div>
