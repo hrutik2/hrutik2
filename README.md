@@ -7,7 +7,7 @@
 <div>
  <img align="right" width="300" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif" alt="">
  </div>
-<div  width="400px">
+<div  width="300px">
 - 👨‍💻 Portfolio available at [https://hrutik2.github.io/](https://hrutik2.github.io/)
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 📫 How to reach me: hrutik0729@gmail.com
