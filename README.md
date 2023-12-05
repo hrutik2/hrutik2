@@ -3,13 +3,17 @@
 <p align="center">I am a Full stack web developer doing military-style coding and learning MERN Stack at Masai School. I have worked on various group as well as individual projects in my coding journey. I also hold a degree in B.pharmacy. My interests include coding, reading books, browsing, and exploring new areas.</p>
 
 <br>
-<div width="300">
+<div width="300" display="flex">
 <img align="right" width="300" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif" alt="">
 
 - 👨‍💻 Portfolio available at [https://hrutik2.github.io/](https://hrutik2.github.io/)
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 📫 How to reach me: hrutik0729@gmail.com
 - 📄 Know about my experiences: [Resume Link](https://drive.google.com/file/d/1vw1eWg-vq1AUBujKzEh35f1sxHX_Gg6F/view?usp=drive_link)
+- 
+  <div>
+ <img align="right" width="300" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif" alt="">
+ </div>
 </div>
 <br>
 <div>
