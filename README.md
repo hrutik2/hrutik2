@@ -8,8 +8,7 @@
 <img align="right" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif" alt="">
 
 
-<br>
-<br>
+
 - 👨‍💻 Portfolio availaible at https://hrutik2.github.io/
 
 - 🌱 I’m currently learning **Full Stack Web Development Programme and DSA at Masai School**
