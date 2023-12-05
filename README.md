@@ -3,7 +3,8 @@
 <br>
 <p align="center">I am a Full stack web developer doing militry style coding and learning MERN Stack at Masai School. I have done various group as well as individual projects in my coding journey.I also did my B.pharmacy My interests are coding, reading about book, browsing, exploring new areas
    </p>
-
+<br>
+<br>
 <img align="right" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif" alt="">
 
 
