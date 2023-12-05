@@ -46,8 +46,8 @@
 <br>
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 30">
     <img src="https://github-readme-stats.vercel.app/api?username=hrutik2&show_icons=true&locale=en" />
+  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrutik2&show_icons=true&locale=en&layout=compact" />
   </div>
 </div>
