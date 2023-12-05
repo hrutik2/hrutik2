@@ -4,7 +4,7 @@
 
 <br>
 <div>
-<img align="right" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif" alt="">
+<img align="right" width="300" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif" alt="">
 
 - 👨‍💻 Portfolio available at [https://hrutik2.github.io/](https://hrutik2.github.io/)
 - 🌱 I’m currently learning **Full Stack Web Development**
