@@ -44,5 +44,5 @@
 </p>
 
 <p>  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrutik2&show_icons=true&locale=en"  />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrutik2&show_icons=true&locale=en&layout=compact"  />
+   <img align="center" margin="30px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrutik2&show_icons=true&locale=en&layout=compact"  />
 </p>
