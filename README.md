@@ -20,14 +20,14 @@
 <br>
 
 <br>
-<br>
+
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/hrutik-jadhav-56ba96247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhav-sultane-8bb16b199/" height="30" width="40" /></a>
 
 </p>
 <br>
-<br>
+
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> 
     <img src="https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="">
@@ -43,5 +43,5 @@
     <img src="https://camo.githubusercontent.com/6908bc5919e46cd787b8e5117f092f5ed37da82e8bd602e6339060ea0fff722c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3539334438383f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465" alt="">
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrutik2&show_icons=true&locale=en&layout=compact" alt="vaibhav2416" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrutik2&show_icons=true&locale=en" alt="vaibhav2416" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrutik2&show_icons=true&locale=en&layout=compact" alt="vaibhav2416" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrutik2&show_icons=true&locale=en" alt="vaibhav2416" /></p>
