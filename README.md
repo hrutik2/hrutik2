@@ -11,7 +11,7 @@
 
 - 👨‍💻 Portfolio availaible at https://hrutik2.github.io/
 
-- 🌱 I’m currently learning **Full Stack Web Development Programme and DSA at Masai School**
+- 🌱 I’m currently learning **Full Stack Web Development Programme**
 
 - 📫 How to reach me **hrutik0729@gmail.com**
 
