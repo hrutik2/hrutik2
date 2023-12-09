@@ -25,7 +25,7 @@
 <div>
 <h2 align="center">Connect with me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/rutik-jadhav-56ba96247/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/rutikjadhav07/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"></a>
 </p>
 </div>
 <br>
