@@ -56,6 +56,7 @@
  <br>
     <h2 align="center">GitHub Stats</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=hrutik2&show_icons=true&locale=en" />
- 
+   <br>
+    <img class="m"  id="github-streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hrutik2&" alt="">
 </div>
 
