@@ -21,7 +21,7 @@
 </div>
 <br>
 <br>
-<br>
+
 <div>
 <h2 align="center">Connect with me</h2>
 <p align="center">
