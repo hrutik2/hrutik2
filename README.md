@@ -14,7 +14,7 @@
 - 👨‍💻 Portfolio available at <a href="https://hrutik2.github.io/">Portfolio</a>
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 📫 How to reach me: <a href="mailto:hrutik0729@gmail.com" class="contact-email">Gmail</a>
-- 📄 Know about my experiences:(https://drive.google.com/file/d/1vw1eWg-vq1AUBujKzEh35f1sxHX_Gg6F/view?usp=drive_link)
+- 📄 Know about my experiences:<a href="https://drive.google.com/file/d/1vw1eWg-vq1AUBujKzEh35f1sxHX_Gg6F/view?usp=drive_link">Resume</a>
 
 
   
