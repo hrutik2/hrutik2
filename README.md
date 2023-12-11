@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rutik Jadhav</h1>
 <br>
-<p align="center">I am a Full stack web developer doing military-style coding and learning MERN Stack at Masai School. I have worked on various group as well as individual projects in my coding journey. I also hold a degree in B.pharmacy. My interests include coding, reading books, browsing, and exploring new areas.</p>
+<p align="center">I am a Full stack web developer doing military-style coding and learning MERN Stack at Masai School. I have worked on various group as well as individual projects in my coding journey. My interests include coding, reading books, browsing, and exploring new areas.</p>
   --------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 <br>
@@ -13,7 +13,7 @@
  
 - 👨‍💻 Portfolio available at <a href="https://hrutik2.github.io/">Portfolio</a>
 - 🌱 I’m currently learning **Full Stack Web Development**
-- 📫 How to reach me: hrutik0729@gmail.com
+- 📫 How to reach me: <a href="mailto:hrutik0729@gmail.com" class="contact-email">Gmail</a>
 - 📄 Know about my experiences:(https://drive.google.com/file/d/1vw1eWg-vq1AUBujKzEh35f1sxHX_Gg6F/view?usp=drive_link)
 
 
