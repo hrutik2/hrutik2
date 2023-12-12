@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rutik Jadhav</h1>
 <br>
 <p align="center">I am a Full stack web developer doing military-style coding and learning MERN Stack at Masai School. I have worked on various group as well as individual projects in my coding journey. My interests include coding, reading books, browsing, and exploring new areas.</p>
-  --------------------------------------------------------------------------------------------------------------------------------------------------------
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 <br>
 <br>
